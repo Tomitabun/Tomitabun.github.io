@@ -1,0 +1,23 @@
+body	{background-color: #edede3}
+h1		{font-size: 38px}
+
+p		{line-height: 1.5}
+
+footer	{font-size: 10px;
+		width: 900px;
+		margin-left: auto;
+		margin-right: auto;
+		clear: both}
+
+article	{width: 900px;
+		margin-left: auto;
+		margin-right: auto;
+		overflow: hidden;}
+
+figure.photo-left	{margin: 0;
+					margin-right: 20px
+					float: left;}
+
+figure.photo-left img	{width: 550px}
+
+a 		{color: #b77d3c}
